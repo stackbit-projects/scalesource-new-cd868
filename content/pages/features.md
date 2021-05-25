@@ -38,7 +38,7 @@ sections:
         url: '#'
         style: secondary
 seo:
-  title: Features
+  title: Jobseeker
   description: This is the features page
   extra:
     - name: 'og:type'
