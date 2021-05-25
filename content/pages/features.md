@@ -45,7 +45,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Features
+      value: Jobseeker
       keyName: property
     - name: 'og:description'
       value: This is the features page
